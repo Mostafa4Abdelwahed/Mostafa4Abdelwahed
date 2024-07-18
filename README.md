@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Mostafa Abdelwahed, Full-Stack Developer. I enjoy writing about technical things
+👋 Hi there, I'm Mostafa Abdelwahed, Frontend Developer. I enjoy writing about technical things
 
 
 ## 🌐 Socials:
